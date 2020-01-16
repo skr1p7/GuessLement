@@ -83,7 +83,7 @@ def main():
 
     root = Tk()
 
-    root.title("CheckLement")
+    root.title("GuessLement")
 
     root.geometry("350x300+0+0")
 
